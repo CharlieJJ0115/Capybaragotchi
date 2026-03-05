@@ -39,6 +39,7 @@ Players can interact with the capybara through different activities:
 - Clean after it
 - Interact using joystick
 - Play a mini-game
+- Touching its' head
 
 ---
 
