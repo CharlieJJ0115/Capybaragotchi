@@ -5,7 +5,9 @@ A digital pet game implemented on FPGA, inspired by Tamagotchi, featuring a capy
 This project was developed for **CS2104 Hardware Design Lab**.
 
 ---
+## Demo Video 🎥
 
+[![CapybaraGotchi Demo](https://img.youtube.com/vi/ZWOgOFY7l-o/0.jpg)](https://www.youtube.com/watch?v=ZWOgOFY7l-o)
 # Project Overview
 
 CapybaraGotchi is a handheld electronic pet game built on FPGA.  
