@@ -151,7 +151,6 @@ The case design allows easy assembly and maintenance.
 
 - Verilog HDL
 - FPGA development (Vivado)
-- BRAM for sprite storage
 - LCD SPI interface
 - Joystick input module
 - Ultrasonic sensor module
