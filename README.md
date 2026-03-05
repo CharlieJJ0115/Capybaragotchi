@@ -162,13 +162,20 @@ The case design allows easy assembly and maintenance.
 Team 18 – HardcoreDesign
 
 Members:
+- 江善有
+- 林亮宏
 
-- 江善有  
-- 林亮宏  
+## Contribution
 
-Contribution: **50% / 50%**
+The project was developed collaboratively with an approximate **50 / 50 contribution split**.
 
----
+- **江善有**  
+  Responsible for the main Verilog implementation, including the top module, FSM design, and overall system logic.
+
+- **林亮宏**  
+  Responsible for sprite/animation image generation (COE files), joystick module implementation, and assisting with debugging and testing.
+
+Both members collaborated on system design discussions and hardware integration.
 
 # Acknowledgements
 
