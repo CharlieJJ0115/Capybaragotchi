@@ -42,7 +42,7 @@ Players can interact with the capybara through different activities:
 
 ---
 
-## Additional Systems
+## Additional Features
 
 Additional features implemented in the project:
 
