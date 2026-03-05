@@ -50,8 +50,8 @@ Additional features implemented in the project:
 - Weather system
 - Hot spring event
 - Different foods depending on weather
-- Hunger system
-- Life system
+- Hunger status
+- Life status
 
 ---
 
