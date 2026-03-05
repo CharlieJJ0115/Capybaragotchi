@@ -26,8 +26,6 @@ The capybara can perform several behaviors:
 - Sleep
 - Walk
 - Feed
-- Sick
-- Clean
 - Touch interaction
 
 Each state has its own animation displayed on the LCD.
