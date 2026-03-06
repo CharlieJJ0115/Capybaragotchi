@@ -2,7 +2,7 @@
 
 A digital pet game implemented on FPGA, inspired by Tamagotchi, featuring a capybara-themed interactive experience.
 
-This project was developed for ** NTHU CS2104 Hardware Design Lab**.
+This project was developed for **NTHU CS2104 Hardware Design Lab**.
 
 ---
 ## Demo Video 🎥
