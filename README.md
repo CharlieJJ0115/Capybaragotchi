@@ -173,7 +173,7 @@ The project was developed collaboratively with an approximate **50 / 50 contribu
   Responsible for the main Verilog implementation, including the top module, FSM design, and overall system logic.
 
 - **林亮宏**  
-  Responsible for sprite/animation image generation (COE files), joystick module implementation, and assisting with debugging and testing.
+  Responsible for sprite/animation image generation (COE files), joystick module implementation, FSM design , and assisting with debugging and testing.
 
 Both members collaborated on system design discussions and hardware integration.
 
